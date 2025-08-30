@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpotOmega/static/css/main.49da7d87.css",
+    "main.js": "/SpotOmega/static/js/main.ce2a01bb.js",
+    "index.html": "/SpotOmega/index.html",
+    "main.49da7d87.css.map": "/SpotOmega/static/css/main.49da7d87.css.map",
+    "main.ce2a01bb.js.map": "/SpotOmega/static/js/main.ce2a01bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49da7d87.css",
+    "static/js/main.ce2a01bb.js"
+  ]
+}
