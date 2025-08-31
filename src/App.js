@@ -1009,12 +1009,12 @@ function App() {
         {/* Navigation */}
         <nav className="nav-container">
           <div className="nav-links">
-            <a href="https://www.spot-to.com/summerprogram.html">SUMMER</a>
-            <a href="https://www.spot-to.com/volunteer.html">VOLUNTEER</a>
-            <a href="https://www.spot-to.com/Internship.html" target="_blank">INTERNSHIPS</a>
-            <a href="https://www.spot-to.com/govg.html">GRANTS</a>
-            <a href="https://www.spot-to.com/scholar.html">SCHOLARSHIPS</a>
-            <a href="https://www.spot-to.com/blog.html" target="_blank">BLOG</a>
+            <a href="summerprogram.html">SUMMER</a>
+            <a href="volunteer.html">VOLUNTEER</a>
+            <a href="Internship.html" target="_blank">INTERNSHIPS</a>
+            <a href="govg.html">GRANTS</a>
+            <a href="scholar.html">SCHOLARSHIPS</a>
+            <a href="blog.html" target="_blank">BLOG</a>
           </div>
         </nav>
 
