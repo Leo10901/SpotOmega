@@ -1033,9 +1033,9 @@ function App() {
 
           {/* Content Below Orb */}
           <div className="text-content">
-            <h1>Connect to Volunteering Opportunities & More</h1>
+            <h1>We Connect High School Students with Volunteering,Internships, and more!</h1>
             <p><i><b>Affiliated with Bloor Collegiate Institute</b></i></p>
-            <h2>Internships • Volunteering • Scholarships</h2>
+          
 
             {/* Search Bar */}
             <div className="search-container">
