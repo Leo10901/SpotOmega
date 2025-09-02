@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/SpotOmega/static/css/main.49da7d87.css",
-    "main.js": "/SpotOmega/static/js/main.ce2a01bb.js",
+    "main.js": "/SpotOmega/static/js/main.a786e496.js",
+    "static/media/test.jpg": "/SpotOmega/static/media/test.0677bd8b175d2e773432.jpg",
+    "static/media/favicon.ico": "/SpotOmega/static/media/favicon.9938ebca3de3453ebd77.ico",
     "index.html": "/SpotOmega/index.html",
     "main.49da7d87.css.map": "/SpotOmega/static/css/main.49da7d87.css.map",
-    "main.ce2a01bb.js.map": "/SpotOmega/static/js/main.ce2a01bb.js.map"
+    "main.a786e496.js.map": "/SpotOmega/static/js/main.a786e496.js.map"
   },
   "entrypoints": [
     "static/css/main.49da7d87.css",
-    "static/js/main.ce2a01bb.js"
+    "static/js/main.a786e496.js"
   ]
 }
